@@ -9,6 +9,6 @@ This script:
 
 To use:
   chmod +x uninstall.sh
-  ./uninstall.sh "AppName"
+  ./app_uninstall.sh "AppName"
 
 Replace "AppName" with the actual application name.
