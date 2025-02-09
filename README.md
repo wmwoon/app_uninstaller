@@ -9,7 +9,10 @@ This script:
 - Cleans up system-wide and user-specific files related to the app.
 
 To use:
-  chmod +x uninstall.sh
-  ./app_uninstall.sh "AppName"
+
+```chmod +x uninstall.sh```
+
+```./app_uninstall.sh "AppName"```
+
 
 Replace "AppName" with the actual application name.
